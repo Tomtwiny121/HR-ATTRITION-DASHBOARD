@@ -65,3 +65,7 @@ The PDF report, provided by MeriSkills, encapsulates key visualizations and insi
 
 # Conclusion:
 The HR Analytics PDF report, provided by MeriSkills, offers detailed insights into employee demographics, turnover patterns, and employee wellness. These findings contribute to informed decision-making and effective HR strategies.
+
+
+![3](https://github.com/Tomtwiny121/HR-ATTRITION-DASHBOARD/assets/128513453/5cca9eb0-0b44-4a03-92bf-948f48640bff)
+
